@@ -1,0 +1,8 @@
+Model Information:
+* title:	Tired Face Emoji
+* source:	https://sketchfab.com/3d-models/tired-face-emoji-9cb9448af5364f61b7962fb3234a98dc
+* author:	saurabh.buradkar7 (https://sketchfab.com/saurabh.buradkar7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

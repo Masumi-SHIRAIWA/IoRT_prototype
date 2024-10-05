@@ -1,0 +1,8 @@
+Model Information:
+* title:	Smiling Face with Smiling Eyes
+* source:	https://sketchfab.com/3d-models/smiling-face-with-smiling-eyes-ce52b57f05d743c1a21a6aa633de6064
+* author:	saurabh.buradkar7 (https://sketchfab.com/saurabh.buradkar7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
